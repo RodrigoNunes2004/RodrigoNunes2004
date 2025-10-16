@@ -11,7 +11,8 @@
 I'm a software engineer focused on full-stack development, passionate about building scalable, modern, and well-architected solutions. I'm using technologies like TypeScript, React & React Native, Next.js, Node.js, C#, ASP.NET, Docker, Azure cloud services, PostgreSQL, microservices, and much more.
 I'm specialised in crafting modern web applications using React, Next.js, TypeScript, Node.js, and PostgreSQL, with a strong focus on developing experience and UI precision through tools like Shadcn UI. My journey blends hands-on technical troubleshooting with creative problem-solving, shaped by years of discipline in the culinary world and now sharpened through real-world coding projects and continuous learning.
 Whether I'm debugging Docker environments, optimising workflows with Git, or refining user interfaces for performance and accessibility, I bring a solution-driven mindset and a deep commitment to quality. I thrive in collaborative environments and love turning complex challenges into elegant, maintainable code.  
-If you’d like to connect, collaborate, or have any questions, feel free to <a href="mailto:rdefraganunes@gmail.com">click here and send me an email</a> — or reach out on <a href="https://www.linkedin.com/in/rodrigo-fraga-nunes-82418675/">LinkedIn</a>. I'm always open to good conversations and interesting opportunities.
+If you’d like to connect, collaborate, or have any questions, feel free to <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rdefraganunes@gmail.com" target="_blank"> Click here and send me an email
+</a>— or reach out on <a href="https://www.linkedin.com/in/rodrigo-fraga-nunes-82418675/">LinkedIn</a>. I'm always open to good conversations and interesting opportunities.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
