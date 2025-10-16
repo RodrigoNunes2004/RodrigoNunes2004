@@ -37,4 +37,4 @@ If you’d like to connect, collaborate, or have any questions, feel free to <a 
 
 <h2>🚀 &nbsp;My GitHub Stats</h2>
 
-
+![Rodrigo Nunes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RodrigoNunes2004&show_icons=true&theme=dracula)
