@@ -8,9 +8,6 @@
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
-
-Absolutely, Rodrigo. Here's a refined and more polished version of your personal statement that maintains your voice while enhancing clarity, flow, and impact. It highlights your technical depth, unique background, and collaborative mindset—all while sounding confident and approachable:
-
 I'm a full-stack software engineer with a passion for building scalable, modern, and thoughtfully architected digital solutions. My toolkit includes TypeScript, React, Next.js, Node.js, C#, ASP.NET Core, Docker, Azure, and PostgreSQL—technologies I use to craft responsive, performant applications that solve real-world problems.
 Specialising in modern web development, I focus on delivering intuitive user experiences with precision, leveraging tools like Shadcn UI and Tailwind CSS. My tech journey was shaped by years of discipline in the culinary world, where I learned to thrive under pressure, think creatively, and refine every detail. That same mindset now fuels my approach to software: clean code, clear architecture, and a relentless drive to improve.
 Whether I'm debugging containerised environments, optimising developer workflows with Git and GitHub CLI, or collaborating on open-source projects, I bring a solution-oriented attitude and a deep commitment to quality. I love working in agile, collaborative teams where knowledge-sharing and mentorship are part of the culture.
