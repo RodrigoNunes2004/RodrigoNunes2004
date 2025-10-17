@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/rodrigo-fraga-nunes-82418675/"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://x.com/RodrigoDeFraga1/"><img src="https://img.shields.io/badge/-My%20X%20Profile-000000?style=flat-square&logo=X&logoColor=white"/></a>
-<a href="https://d-dev-folio.vercel.app"><img src="https://img.shields.io/badge/just%20the%20message-8A2BE2"/></a>
+<a href="https://d-dev-folio.vercel.app"><img src="https://img.shields.io/badge/My%20the%20website-8A2BE2"/></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rdefraganunes@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
