@@ -9,11 +9,13 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-I'm a software engineer focused on full-stack development, passionate about building scalable, modern, and well-architected solutions. I'm using technologies like TypeScript, React & React Native, Next.js, Node.js, C#, ASP.NET, Docker, Azure cloud services, PostgreSQL, microservices, and much more.
-I'm specialised in crafting modern web applications using React, Next.js, TypeScript, Node.js, and PostgreSQL, with a strong focus on developing experience and UI precision through tools like Shadcn UI. My journey blends hands-on technical troubleshooting with creative problem-solving, shaped by years of discipline in the culinary world and now sharpened through real-world coding projects and continuous learning.
-Whether I'm debugging Docker environments, optimising workflows with Git, or refining user interfaces for performance and accessibility, I bring a solution-driven mindset and a deep commitment to quality. I thrive in collaborative environments and love turning complex challenges into elegant, maintainable code.  
-If you’d like to connect, collaborate, or have any questions, feel free to <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rdefraganunes@gmail.com" target="_blank"> Click here and send me an email
-</a>— or reach out on <a href="https://www.linkedin.com/in/rodrigo-fraga-nunes-82418675/">LinkedIn</a>. I'm always open to good conversations and interesting opportunities.
+Absolutely, Rodrigo. Here's a refined and more polished version of your personal statement that maintains your voice while enhancing clarity, flow, and impact. It highlights your technical depth, unique background, and collaborative mindset—all while sounding confident and approachable:
+
+I'm a full-stack software engineer with a passion for building scalable, modern, and thoughtfully architected digital solutions. My toolkit includes TypeScript, React, Next.js, Node.js, C#, ASP.NET Core, Docker, Azure, and PostgreSQL—technologies I use to craft responsive, performant applications that solve real-world problems.
+Specializing in modern web development, I focus on delivering intuitive user experiences with precision, leveraging tools like Shadcn UI and Tailwind CSS. My tech journey was shaped by years of discipline in the culinary world, where I learned to thrive under pressure, think creatively, and refine every detail. That same mindset now fuels my approach to software: clean code, clear architecture, and a relentless drive to improve.
+Whether I'm debugging containerized environments, optimizing developer workflows with Git and GitHub CLI, or collaborating on open-source projects, I bring a solution-oriented attitude and a deep commitment to quality. I love working in agile, collaborative teams where knowledge-sharing and mentorship are part of the culture.
+If you're interested in connecting, collaborating, or just having a great conversation, feel free to  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rdefraganunes@gmail.com" target="_blank"> send me an email or reach out on </a>— or reach out on <a href="https://www.linkedin.com/in/rodrigo-fraga-nunes-82418675/"> LinkedIn. I'm always open to new ideas and meaningful opportunities.
+
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
