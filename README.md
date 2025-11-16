@@ -59,6 +59,27 @@ I'm always open to new ideas and meaningful opportunities.
 
 <p>I build and test across Windows and WSL Ubuntu, using Docker containers and CLI tools to streamline cloud automation, Django development, and cross-platform scripting.</p>
 
+<h3>🧪 &nbsp;CLI Toolkit:</h3>
+
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Azure CLI](https://img.shields.io/badge/Azure%20CLI-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![GitHub CLI](https://img.shields.io/badge/GitHub%20CLI-181717?style=flat-square&logo=github&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-2-informational?style=flat-square&logo=linux&logoColor=white)
+
+---
+
+<h2>📌 &nbsp;Featured Projects</h2>
+
+- 🎯 **CaterCalc Pro** – A SaaS platform for chefs and caterers to streamline menu costing and inventory.  
+  [![Live](https://img.shields.io/badge/Live-Demo-8A2BE2?style=flat-square)](https://catercalc.vercel.app)  
+  [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/RodrigoNunes2004/catercalc)
+
+- ⚙️ **Azure CLI Automation Scripts** – PowerShell scripts to automate Azure login, subscription selection, and resource group provisioning.  
+  [![Repo](https://img.shields.io/badge/GitHub-Azure%20Scripts-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](https://github.com/RodrigoNunes2004/azure-cli-scripts)
+
+- 🌐 **Django WSL Setup Guide** – A cross-platform guide for setting up Django in WSL with badges and branding.  
+  [![Repo](https://img.shields.io/badge/GitHub-Django%20WSL%20Setup-0C4B33?style=flat-square&logo=django&logoColor=white)](https://github.com/RodrigoNunes2004/django-wsl-setup)
+
 ---
 
 <h2>🚀 &nbsp;My GitHub Stats</h2>
