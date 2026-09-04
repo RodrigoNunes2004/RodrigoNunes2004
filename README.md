@@ -8,6 +8,8 @@
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
+# Rodrigo Nunes | Full-Stack Software Engineer
+### 📍 Tauranga, Bay of Plenty, New Zealand (Open to Local Hybrid & Nationwide Remote Roles)
 
 I'm a full-stack software engineer passionate about building scalable, modern, and thoughtfully architected digital solutions. My toolkit includes TypeScript, React, Next.js, Node.js, C#, ASP.NET Core, Docker, Azure, and PostgreSQL—technologies I use to craft responsive, performant applications that solve real-world problems.
 
@@ -85,3 +87,8 @@ I'm always open to new ideas and meaningful opportunities.
 <h2>🚀 &nbsp;My GitHub Stats</h2>
 
 ![Rodrigo Nunes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RodrigoNunes2004&show_icons=true&theme=dracula)
+### 🤝 Let's Connect
+I thrive in agile, collaborative team structures where clean code and continuous knowledge sharing are celebrated. Whether you're looking to fill a hybrid software engineering role in Tauranga or a fully remote junior/associate position within New Zealand, let's chat!
+
+* 📧 Drop me a line: **rdefraganunes@gmail.com**
+* 🔗 Connect on professional networks: **[LinkedIn](https://linkedin.com)**
