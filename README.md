@@ -1,5 +1,6 @@
 # 👋 Hey — I'm Rodrigo Nunes
-Full-Stack Software Engineer
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=28&duration=3000&color=1A9AF7&lines=Full-Stack+Software+Engineer;Chef+turned+Software+Engineer;Building+Micro-SaaS+Projects)](https://git.io/typing-svg)
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rodrigo-fraga-nunes-82418675/">
