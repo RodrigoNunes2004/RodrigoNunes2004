@@ -72,13 +72,13 @@ I build and test across Windows and WSL Ubuntu, using Docker containers and CLI 
 
 ## 📌 Featured Projects
 
-- 🎯 **CaterCalc Pro** – A SaaS platform for chefs and caterers to streamline menu costing and inventory.  
+- 🎯 **CaterCalc Pro** – A full-stack SaaS platform for chefs and caterers to streamline live inventory management and dynamically calculate recipe menu costing using a relational database architecture.  
   [Live Demo](https://catercalc.vercel.app) · [Repo](https://github.com/RodrigoNunes2004/catercalc)
 
-- ⚙️ **Azure CLI Automation Scripts** – PowerShell scripts to automate Azure login, subscription selection, and resource group provisioning.  
+- ⚙️ **Azure CLI Automation Scripts** – Production-ready PowerShell workflows designed to automate multi-tenant Azure authentication, secure subscription selections, and isolated resource group environment provisioning.  
   [Repo](https://github.com/RodrigoNunes2004/azure-cli-scripts)
 
-- 🌐 **Django WSL Setup Guide** – A cross-platform guide for setting up Django in WSL with badges and branding.  
+- 🌐 **Django WSL Setup Guide** – A comprehensive cross-platform deployment blueprint optimising secure Python virtual sandboxes inside containerised Linux subsystems on Windows systems.  
   [Repo](https://github.com/RodrigoNunes2004/django-wsl-setup)
 
 ---
