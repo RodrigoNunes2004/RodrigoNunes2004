@@ -1,7 +1,6 @@
 # 👋 Hey — I'm Rodrigo Nunes
 [![Typing SVG](https://readme-typing-svg.demolab.com?size=28&duration=3000&color=1A9AF7&lines=Full-Stack+Software+Engineer;Chef+turned+Software+Engineer;Building+Micro-SaaS+Projects)](https://git.io/typing-svg)
 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/rodrigo-fraga-nunes-82418675/">
     <img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -86,7 +85,10 @@ I build and test across Windows and WSL Ubuntu, using Docker containers and CLI 
 
 ## 🚀 My GitHub Stats
 
-![Rodrigo Nunes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RodrigoNunes2004&show_icons=true&theme=dracula&cache_seconds=1800&v=2)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodrigoNunes2004" alt="Profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RodrigoNunes2004" alt="Top languages" />
+</div>
 
 ---
 
