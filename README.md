@@ -18,17 +18,16 @@ Full-Stack Software Engineer
 
 ---
 
-## 👨🏻‍💻 About Me
-**Rodrigo Nunes | Full-Stack Software Engineer**  
-📍 Tauranga, Bay of Plenty, New Zealand (Open to local hybrid & nationwide remote roles)
-
-I'm a full-stack software engineer passionate about building scalable, modern, and thoughtfully architected digital solutions. My toolkit includes TypeScript, React, Next.js, Node.js, C#, ASP.NET Core, Docker, Azure, and PostgreSQL—technologies I use to craft responsive, performant applications that solve real‑world problems.
-
-I develop across Windows and WSL Ubuntu, leveraging cross-platform tooling to streamline cloud automation and containerised workflows. I focus on delivering intuitive user experiences with precision, using tools like Shadcn UI and Tailwind CSS. My background in the culinary world taught me to thrive under pressure, iterate rapidly, and refine every detail—qualities I bring to software development.
-
-If you'd like to connect:
-- 📧 rdefraganunes@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rodrigo-fraga-nunes-82418675/)
+<div align="center">
+  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3fb-200d-1f4bb.png" alt="Man Technologist" width="120" height="120" />
+  <h2>👨🏻‍💻 About Me</h2>
+  <p style="max-width:880px;">
+    <strong>Rodrigo Nunes | Full-Stack Software Engineer</strong><br>
+    📍 Tauranga, Bay of Plenty, New Zealand (Open to local hybrid &amp; nationwide remote roles)<br><br>
+    I'm a full-stack software engineer passionate about building scalable, modern, and thoughtfully architected digital solutions. My toolkit includes TypeScript, React, Next.js, Node.js, C#, ASP.NET Core, Docker, Azure, and PostgreSQL—technologies I use to craft responsive, performant applications that solve real‑world problems.<br><br>
+    I develop across Windows and WSL Ubuntu, leveraging cross-platform tooling to streamline cloud automation and containerised workflows. I focus on delivering intuitive user experiences with precision, using tools like Shadcn UI and Tailwind CSS. My background in the culinary world taught me to thrive under pressure, iterate rapidly, and refine every detail—qualities I bring to software development.
+  </p>
+</div>
 
 ---
 
@@ -85,8 +84,6 @@ I build and test across Windows and WSL Ubuntu, using Docker containers and CLI 
 ---
 
 ## 🚀 My GitHub Stats
-
-> Note: If the image still fails to render in GitHub, it’s usually either the stats service returning an error or GitHub's image proxy caching a bad response. I added a cache-busting / caching parameter below to help.
 
 ![Rodrigo Nunes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RodrigoNunes2004&show_icons=true&theme=dracula&cache_seconds=1800&v=2)
 
