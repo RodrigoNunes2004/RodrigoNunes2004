@@ -1,38 +1,40 @@
-<h1>👋 &nbsp; Hey, Rodrigo Nunes, a passionate Full Stack Engineer!</h1>
+# 👋 Hey — I'm Rodrigo Nunes
+Full-Stack Software Engineer
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rodrigo-fraga-nunes-82418675/"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/RodrigoDeFraga1/"><img src="https://img.shields.io/badge/-My%20X%20Profile-000000?style=flat-square&logo=X&logoColor=white"/></a>
-  <a href="https://d-dev-folio.vercel.app"><img src="https://img.shields.io/badge/My%20portfolio%20website-8A2BE2?style=flat-square"/></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rdefraganunes@gmail.com">
-  <img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/rodrigo-fraga-nunes-82418675/">
+    <img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/RodrigoDeFraga1/">
+    <img src="https://img.shields.io/badge/-My%20X%20Profile-000000?style=flat-square&logo=X&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://d-dev-folio.vercel.app">
+    <img src="https://img.shields.io/badge/My%20portfolio%20website-8A2BE2?style=flat-square" alt="Portfolio"/>
+  </a>
+  <a href="mailto:rdefraganunes@gmail.com">
+    <img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
-
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
-# Rodrigo Nunes | Full-Stack Software Engineer
-### 📍 Tauranga, Bay of Plenty, New Zealand (Open to Local Hybrid & Nationwide Remote Roles)
-
-I'm a full-stack software engineer passionate about building scalable, modern, and thoughtfully architected digital solutions. My toolkit includes TypeScript, React, Next.js, Node.js, C#, ASP.NET Core, Docker, Azure, and PostgreSQL—technologies I use to craft responsive, performant applications that solve real-world problems.
-
-<p>I develop across Windows and WSL Ubuntu, leveraging cross-platform tooling to streamline cloud automation and containerised workflows.</p>
-
-Specialising in modern web development, I focus on delivering intuitive user experiences with precision, leveraging tools like Shadcn UI and Tailwind CSS. My tech journey was shaped by years of discipline in the culinary world, where I learned to thrive under pressure, think creatively, and refine every detail. That same mindset now fuels my approach to software: clean code, clear architecture, and a relentless drive to improve.
-
-Whether I'm debugging containerised environments, optimising developer workflows with Git and GitHub CLI, or collaborating on open-source projects, I bring a solution-oriented attitude and a deep commitment to quality. I love working on agile, collaborative teams where knowledge sharing and mentorship are part of the culture.
-
-If you're interested in connecting, collaborating, or just having a great conversation, feel free to  
-📧 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rdefraganunes@gmail.com" target="_blank">Send me an email</a>  
-or  
-🔗 <a href="https://www.linkedin.com/in/rodrigo-fraga-nunes-82418675/" target="_blank">Connect with me on LinkedIn</a>.  
-I'm always open to new ideas and meaningful opportunities.
 
 ---
 
-<h2> 🛠 &nbsp;Tech Stack</h2>
+## 👨🏻‍💻 About Me
+**Rodrigo Nunes | Full-Stack Software Engineer**  
+📍 Tauranga, Bay of Plenty, New Zealand (Open to local hybrid & nationwide remote roles)
 
-<h3>💻 &nbsp;Front-end:</h3>
+I'm a full-stack software engineer passionate about building scalable, modern, and thoughtfully architected digital solutions. My toolkit includes TypeScript, React, Next.js, Node.js, C#, ASP.NET Core, Docker, Azure, and PostgreSQL—technologies I use to craft responsive, performant applications that solve real‑world problems.
 
+I develop across Windows and WSL Ubuntu, leveraging cross-platform tooling to streamline cloud automation and containerised workflows. I focus on delivering intuitive user experiences with precision, using tools like Shadcn UI and Tailwind CSS. My background in the culinary world taught me to thrive under pressure, iterate rapidly, and refine every detail—qualities I bring to software development.
+
+If you'd like to connect:
+- 📧 rdefraganunes@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rodrigo-fraga-nunes-82418675/)
+
+---
+
+## 🛠 Tech Stack
+
+### Front-end
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
@@ -42,8 +44,7 @@ I'm always open to new ideas and meaningful opportunities.
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat-square&logo=next.js)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat-square&logo=tailwind-css)
 
-<h3>⚙️ &nbsp;Back-end & databases:</h3>
-
+### Back-end & Databases
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat-square&logo=node.js)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
@@ -54,17 +55,15 @@ I'm always open to new ideas and meaningful opportunities.
 
 ---
 
-<h2>🧰 &nbsp;Development Environment</h2>
-
+## 🧰 Development Environment
 ![Windows](https://img.shields.io/badge/Windows-11-blue?style=flat-square&logo=windows&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-Ubuntu_24.04-blue?style=flat-square&logo=linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.13.9-yellow?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-5.2.8-green?style=flat-square&logo=django&logoColor=white)
 
-<p>I build and test across Windows and WSL Ubuntu, using Docker containers and CLI tools to streamline cloud automation, Django development, and cross-platform scripting.</p>
+I build and test across Windows and WSL Ubuntu, using Docker containers and CLI tools to streamline cloud automation, Django development, and cross‑platform scripting.
 
-<h3>🧪 &nbsp;CLI Toolkit:</h3>
-
+### CLI Toolkit
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Azure CLI](https://img.shields.io/badge/Azure%20CLI-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![GitHub CLI](https://img.shields.io/badge/GitHub%20CLI-181717?style=flat-square&logo=github&logoColor=white)
@@ -72,25 +71,30 @@ I'm always open to new ideas and meaningful opportunities.
 
 ---
 
-<h2>📌 &nbsp;Featured Projects</h2>
+## 📌 Featured Projects
 
 - 🎯 **CaterCalc Pro** – A SaaS platform for chefs and caterers to streamline menu costing and inventory.  
-  [![Live](https://img.shields.io/badge/Live-Demo-8A2BE2?style=flat-square)](https://catercalc.vercel.app)  
-  [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/RodrigoNunes2004/catercalc)
+  [Live Demo](https://catercalc.vercel.app) · [Repo](https://github.com/RodrigoNunes2004/catercalc)
 
 - ⚙️ **Azure CLI Automation Scripts** – PowerShell scripts to automate Azure login, subscription selection, and resource group provisioning.  
-  [![Repo](https://img.shields.io/badge/GitHub-Azure%20Scripts-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](https://github.com/RodrigoNunes2004/azure-cli-scripts)
+  [Repo](https://github.com/RodrigoNunes2004/azure-cli-scripts)
 
 - 🌐 **Django WSL Setup Guide** – A cross-platform guide for setting up Django in WSL with badges and branding.  
-  [![Repo](https://img.shields.io/badge/GitHub-Django%20WSL%20Setup-0C4B33?style=flat-square&logo=django&logoColor=white)](https://github.com/RodrigoNunes2004/django-wsl-setup)
+  [Repo](https://github.com/RodrigoNunes2004/django-wsl-setup)
 
 ---
 
-<h2>🚀 &nbsp;My GitHub Stats</h2>
+## 🚀 My GitHub Stats
 
-![Rodrigo Nunes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RodrigoNunes2004&show_icons=true&theme=dracula)
-### 🤝 Let's Connect
-I thrive in agile, collaborative team structures where clean code and continuous knowledge sharing are celebrated. Whether you're looking to fill a hybrid software engineering role in Tauranga or a fully remote junior/associate position within New Zealand, let's chat!
+> Note: If the image still fails to render in GitHub, it’s usually either the stats service returning an error or GitHub's image proxy caching a bad response. I added a cache-busting / caching parameter below to help.
 
-* 📧 Drop me a line: **rdefraganunes@gmail.com**
-* 🔗 Connect on professional networks: **[LinkedIn](https://linkedin.com)**
+![Rodrigo Nunes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RodrigoNunes2004&show_icons=true&theme=dracula&cache_seconds=1800&v=2)
+
+---
+
+## 🤝 Let's Connect
+
+I thrive in agile, collaborative teams where clean code and continuous knowledge sharing are celebrated. Whether you're hiring for a hybrid role in Tauranga or a remote position in New Zealand, I'd love to chat.
+
+- 📧 rdefraganunes@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rodrigo-fraga-nunes-82418675/)
