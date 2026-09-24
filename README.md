@@ -72,6 +72,20 @@ I build and test across Windows and WSL Ubuntu, using Docker containers and CLI 
 
 ## 📌 Featured Projects
 
+## 🎓 Mission Ready
+
+- **Tina (AI Insurance Assistant)** – Conversational cover recommendations for Turners, built with Next.js, TypeScript, and the Google Gemini API.
+  [Repo](https://github.com/RodrigoNunes2004/YOUR-TINA-REPO)
+
+- **Turners AI Vehicle Classifier** – Express and Azure Custom Vision prototype that classifies vehicle type from uploaded photos.
+  [Repo](https://github.com/RodrigoNunes2004/YOUR-CLASSIFIER-REPO)
+
+- **MongoDB Auction CLI** – Node.js CLI (Commander, Inquirer, Mongoose) to seed, find, and delete auction listings.
+  [Repo](https://github.com/RodrigoNunes2004/YOUR-CLI-REPO)
+
+- **Mission X** – Full-stack team platform: multi-role auth, React Router, Docker, GitHub Actions CI, and Vitest TDD.
+  [Repo](https://github.com/RodrigoNunes2004/YOUR-MISSION-X-REPO)
+
 - 🎯 **CaterCalc Pro** – A full-stack SaaS platform for chefs and caterers to streamline live inventory management and dynamically calculate recipe menu costing using a relational database architecture.  
   [Live Demo](https://catercalc.vercel.app) · [Repo](https://github.com/RodrigoNunes2004/catercalc)
 
