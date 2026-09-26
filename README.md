@@ -72,14 +72,23 @@ I build and test across Windows and WSL Ubuntu, using Docker containers and CLI 
 
 ## 📌 Featured Projects
 
-- 🎯 **CaterCalc Pro** – A full-stack SaaS platform for chefs and caterers to streamline live inventory management and dynamically calculate recipe menu costing using a relational database architecture.  
-  [Live Demo](https://catercalc.vercel.app) · [Repo](https://github.com/RodrigoNunes2004/catercalc)
+- 🎓 **Mission X – School System for Teachers & Students** – A full-stack school management system developed as part of the Mission Ready programme, with separate backend and frontend applications supporting teacher and student workflows.
+  [Backend Repo](https://github.com/Mission-Ready/2604-L4FT22-missionx-backend-t2) · [Frontend Repo](https://github.com/Mission-Ready/2604-L4FT22-missionx-frontend-t2)
 
-- ⚙️ **Azure CLI Automation Scripts** – Production-ready PowerShell workflows designed to automate multi-tenant Azure authentication, secure subscription selections, and isolated resource group environment provisioning.  
-  [Repo](https://github.com/RodrigoNunes2004/azure-cli-scripts)
+- 🚗 **AI Vehicle Classifier** – A prototype for Car Insurance that classifies a vehicle type from an uploaded photo using Azure Custom Vision.
+  [Repo](https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-1-rodrigonunes2004)
 
-- 🌐 **Django WSL Setup Guide** – A comprehensive cross-platform deployment blueprint optimising secure Python virtual sandboxes inside containerised Linux subsystems on Windows systems.  
-  [Repo](https://github.com/RodrigoNunes2004/django-wsl-setup)
+- 🤖 **Interview Coach — Mission Ready (ADV Mission 3)** – A modern AI-powered interview practice application built with Next.js 15, Tailwind CSS, shadcn/ui, and Gemini.
+  [Live Demo](https://interviewcoachai-black.vercel.app/) · [Repo](https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-3-rodrigonunes2004)
+
+- 🛡️ **Tina – AI Insurance Recommendation Assistant** – A dark-theme conversational insurance assistant for Turners New Zealand, built with Next.js, TypeScript, and the Google Gemini API. Tina interviews customers, applies Turners-style underwriting rules, and recommends a coverage profile.
+  [Live Demo](https://l5-adv-2026-jul-l5-adv-mission-4-ro.vercel.app/) · [Repo](https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-4-rodrigonunes2004)
+
+- 🔨 **Auction Manager (Mission 5, Phase 1)** – A Node.js application for managing auction listings, featuring a CLI built with Commander and Inquirer, an Express API for keyword-based auction searches, and MongoDB integration through Mongoose.
+  [Repo](https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-5-phase-1-rodrigonunes2004)
+
+- ⛽ **Energy Station Finder (Mission 5, Phase 2)** – A responsive full-stack application based on a supplied Z Energy UX prototype. Users can find Energy stations, view station details, plan trips, and manage saved trips.
+  [Repo](https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-5-phase-2-rodrigonunes2004)
 
 ---
 
