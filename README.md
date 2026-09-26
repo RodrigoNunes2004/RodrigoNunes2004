@@ -1,5 +1,5 @@
-# 👋 Hey — I'm Rodrigo Nunes
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=28&duration=3000&color=1A9AF7&lines=Full-Stack+Software+Engineer;Building+Micro-SaaS+Projects)](https://git.io/typing-svg)
+# 👋 Rodrigo Nunes
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=28&duration=3000&color=1A9AF7&lines=Full-Stack+Software+Engineer;TypeScript+%7C+React+%7C+Next.js;Node.js+%7C+C%23+%7C+ASP.NET+Core)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rodrigo-fraga-nunes-82418675/">
@@ -23,9 +23,9 @@
   <h2>👨🏻‍💻 About Me</h2>
   <p style="max-width:880px;">
     <strong>Rodrigo Nunes | Full-Stack Software Engineer</strong><br>
-    📍 Tauranga, Bay of Plenty, New Zealand (Open to local hybrid &amp; nationwide remote roles)<br><br>
-    I'm a full-stack software engineer passionate about building scalable, modern, and thoughtfully architected digital solutions. My toolkit includes TypeScript, React, Next.js, Node.js, C#, ASP.NET Core, Docker, Azure, and PostgreSQL—technologies I use to craft responsive, performant applications that solve real‑world problems.<br><br>
-    I develop across Windows and WSL Ubuntu, leveraging cross-platform tooling to streamline cloud automation and containerised workflows. I focus on delivering intuitive user experiences with precision, using tools like Shadcn UI and Tailwind CSS. My background in the culinary world taught me to thrive under pressure, iterate rapidly, and refine every detail—qualities I bring to software development.
+    <strong>Search keywords:</strong> Full-Stack Developer, TypeScript, React, Next.js, Node.js, C#, ASP.NET Core, Azure, Web Development, Scalable Systems<br>
+    📍 Tauranga, Bay of Plenty, New Zealand • Open to hybrid and remote roles<br><br>
+    I’m a full-stack software engineer focused on building scalable, modern, and user-friendly digital products. I work with TypeScript, React, Next.js, Node.js, C#, ASP.NET Core, and Azure to design and deliver robust web applications and cloud-ready solutions. I enjoy turning complex business requirements into clean, maintainable software that delivers real value to users.
   </p>
 </div>
 
@@ -60,7 +60,7 @@
 ![Python](https://img.shields.io/badge/Python-3.13.9-yellow?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-5.2.8-green?style=flat-square&logo=django&logoColor=white)
 
-I build and test across Windows and WSL Ubuntu, using Docker containers and CLI tools to streamline cloud automation, Django development, and cross‑platform scripting.
+I build and test across Windows and WSL Ubuntu, using Docker containers and CLI tools to streamline cloud automation, Django development, and cross-platform scripting.
 
 ### CLI Toolkit
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
@@ -72,7 +72,7 @@ I build and test across Windows and WSL Ubuntu, using Docker containers and CLI 
 
 ## 📌 Featured Projects
 
-- 🎓 **Mission X – School System for Teachers & Students** – A full-stack school management system developed as part of the Mission Ready programme, with separate backend and frontend applications supporting teacher and student workflows.
+- 🎓 **Mission X – School System for Teachers & Students** – A full-stack school management system developed as part of the Mission Ready programme, with separate backend and frontend applications.
   [Backend Repo](https://github.com/Mission-Ready/2604-L4FT22-missionx-backend-t2) · [Frontend Repo](https://github.com/Mission-Ready/2604-L4FT22-missionx-frontend-t2)
 
 - 🚗 **AI Vehicle Classifier** – A prototype for Car Insurance that classifies a vehicle type from an uploaded photo using Azure Custom Vision.
@@ -81,13 +81,13 @@ I build and test across Windows and WSL Ubuntu, using Docker containers and CLI 
 - 🤖 **Interview Coach — Mission Ready (ADV Mission 3)** – A modern AI-powered interview practice application built with Next.js 15, Tailwind CSS, shadcn/ui, and Gemini.
   [Live Demo](https://interviewcoachai-black.vercel.app/) · [Repo](https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-3-rodrigonunes2004)
 
-- 🛡️ **Tina – AI Insurance Recommendation Assistant** – A dark-theme conversational insurance assistant for Turners New Zealand, built with Next.js, TypeScript, and the Google Gemini API. Tina interviews customers, applies Turners-style underwriting rules, and recommends a coverage profile.
+- 🛡️ **Tina – AI Insurance Recommendation Assistant** – A dark-theme conversational insurance assistant for Turners New Zealand, built with Next.js, TypeScript, and the Google Gemini API.
   [Live Demo](https://l5-adv-2026-jul-l5-adv-mission-4-ro.vercel.app/) · [Repo](https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-4-rodrigonunes2004)
 
-- 🔨 **Auction Manager (Mission 5, Phase 1)** – A Node.js application for managing auction listings, featuring a CLI built with Commander and Inquirer, an Express API for keyword-based auction searches, and MongoDB integration through Mongoose.
+- 🔨 **Auction Manager (Mission 5, Phase 1)** – A Node.js application for managing auction listings, featuring a CLI built with Commander and Inquirer, an Express API for keyword-based auction searches, and a modern frontend experience.
   [Repo](https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-5-phase-1-rodrigonunes2004)
 
-- ⛽ **Energy Station Finder (Mission 5, Phase 2)** – A responsive full-stack application based on a supplied Z Energy UX prototype. Users can find Energy stations, view station details, plan trips, and manage saved trips.
+- ⛽ **Energy Station Finder (Mission 5, Phase 2)** – A responsive full-stack application based on a supplied Z Energy UX prototype. Users can find Energy stations, view station details, plan trips, and explore a polished customer experience.
   [Repo](https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-5-phase-2-rodrigonunes2004)
 
 ---
@@ -103,7 +103,7 @@ I build and test across Windows and WSL Ubuntu, using Docker containers and CLI 
 
 ## 🤝 Let's Connect
 
-I thrive in agile, collaborative teams where clean code and continuous knowledge sharing are celebrated. Whether you're hiring for a hybrid role in Tauranga or a remote position in New Zealand, I'd love to chat.
+I thrive in agile, collaborative teams where clean code and continuous knowledge sharing are celebrated. Whether you're hiring for a hybrid role in Tauranga or a remote position in New Zealand, I’d love to connect.
 
 - 📧 rdefraganunes@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rodrigo-fraga-nunes-82418675/)
