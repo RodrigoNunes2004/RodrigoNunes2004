@@ -1,5 +1,5 @@
 # 👋 Rodrigo Nunes
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=28&duration=3000&color=1A9AF7&lines=Full-Stack+Software+Engineer;TypeScript+%7C+React+%7C+Next.js;Node.js+%7C+C%23+%7C+ASP.NET+Core)](https[...]
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=28&duration=3000&color=1A9AF7&lines=Full-Stack+Software+Engineer;TypeScript+%7C+React+%7C+Next.js;Node.js+%7C+C%23+%7C+ASP.NET+Core)]
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rodrigo-fraga-nunes-82418675/">
@@ -18,8 +18,10 @@
 
 ---
 
-<div align="center" style="background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://raw.githubusercontent.com/RodrigoNunes2004/RodrigoNunes2004/master/Designer.png') center/cover; padding: 60px 20px; border-radius: 10px;">
+<div align="center"
   <h2 style="color: white; margin: 0;">👨🏻‍💻 About Me</h2>
+  style="background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+  url('https://raw.githubusercontent.com/RodrigoNunes2004/RodrigoNunes2004/master/Designer.png') center/cover; padding: 60px 20px; border-radius: 10px;">
   <p style="max-width:880px; color: white; font-weight: 500;">
     <strong>Rodrigo Nunes | Full-Stack Software Engineer</strong><br>
     <strong>Search keywords:</strong> Full-Stack Developer, TypeScript, React, Next.js, Node.js, C#, ASP.NET Core, Azure, Web Development, Scalable Systems<br>
