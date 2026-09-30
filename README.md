@@ -19,7 +19,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RodrigoNunes2004/RodrigoNunes2004/master/assets/Designer.png" alt="Rodrigo Nunes" width="120" height="120" />
+  <img src="https://raw.githubusercontent.com/RodrigoNunes2004/RodrigoNunes2004/master/Designer.png" alt="Rodrigo Nunes" width="120" height="120" />
   <h2>👨🏻‍💻 About Me</h2>
   <p style="max-width:880px;">
     <strong>Rodrigo Nunes | Full-Stack Software Engineer</strong><br>
