@@ -1,5 +1,5 @@
 # 👋 Rodrigo Nunes
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=28&duration=3000&color=1A9AF7&lines=Full-Stack+Software+Engineer;TypeScript+%7C+React+%7C+Next.js;Node.js+%7C+C%23+%7C+ASP.NET+Core)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=28&duration=3000&color=1A9AF7&lines=Full-Stack+Software+Engineer;TypeScript+%7C+React+%7C+Next.js;Node.js+%7C+C%23+%7C+ASP.NET+Core)](https[...]
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rodrigo-fraga-nunes-82418675/">
@@ -19,13 +19,13 @@
 ---
 
 <div align="center">
-  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3fb-200d-1f4bb.png" alt="Man Technologist" width="120" height="120" />
+  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" alt="Laptop Computer" width="120" height="120" />
   <h2>👨🏻‍💻 About Me</h2>
   <p style="max-width:880px;">
     <strong>Rodrigo Nunes | Full-Stack Software Engineer</strong><br>
     <strong>Search keywords:</strong> Full-Stack Developer, TypeScript, React, Next.js, Node.js, C#, ASP.NET Core, Azure, Web Development, Scalable Systems<br>
     📍 Tauranga, Bay of Plenty, New Zealand • Open to hybrid and remote roles<br><br>
-    I’m a full-stack software engineer focused on building scalable, modern, and user-friendly digital products. I work with TypeScript, React, Next.js, Node.js, C#, ASP.NET Core, and Azure to design and deliver robust web applications and cloud-ready solutions. I enjoy turning complex business requirements into clean, maintainable software that delivers real value to users.
+    I'm a full-stack software engineer focused on building scalable, modern, and user-friendly digital products. I work with TypeScript, React, Next.js, Node.js, C#, ASP.NET Core, and Azure to d[...]
   </p>
 </div>
 
@@ -72,7 +72,7 @@ I build and test across Windows and WSL Ubuntu, using Docker containers and CLI 
 
 ## 📌 Featured Projects
 
-- 🎓 **Mission X – School System for Teachers & Students** – A full-stack school management system developed as part of the Mission Ready programme, with separate backend and frontend applications.
+- 🎓 **Mission X – School System for Teachers & Students** – A full-stack school management system developed as part of the Mission Ready programme, with separate backend and frontend applic[...]
   [Backend Repo](https://github.com/Mission-Ready/2604-L4FT22-missionx-backend-t2) · [Frontend Repo](https://github.com/Mission-Ready/2604-L4FT22-missionx-frontend-t2)
 
 - 🚗 **AI Vehicle Classifier** – A prototype for Car Insurance that classifies a vehicle type from an uploaded photo using Azure Custom Vision.
@@ -84,10 +84,10 @@ I build and test across Windows and WSL Ubuntu, using Docker containers and CLI 
 - 🛡️ **Tina – AI Insurance Recommendation Assistant** – A dark-theme conversational insurance assistant for Turners New Zealand, built with Next.js, TypeScript, and the Google Gemini API.
   [Live Demo](https://l5-adv-2026-jul-l5-adv-mission-4-ro.vercel.app/) · [Repo](https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-4-rodrigonunes2004)
 
-- 🔨 **Auction Manager (Mission 5, Phase 1)** – A Node.js application for managing auction listings, featuring a CLI built with Commander and Inquirer, an Express API for keyword-based auction searches, and a modern frontend experience.
+- 🔨 **Auction Manager (Mission 5, Phase 1)** – A Node.js application for managing auction listings, featuring a CLI built with Commander and Inquirer, an Express API for keyword-based auction[...]
   [Repo](https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-5-phase-1-rodrigonunes2004)
 
-- ⛽ **Energy Station Finder (Mission 5, Phase 2)** – A responsive full-stack application based on a supplied Z Energy UX prototype. Users can find Energy stations, view station details, plan trips, and explore a polished customer experience.
+- ⛽ **Energy Station Finder (Mission 5, Phase 2)** – A responsive full-stack application based on a supplied Z Energy UX prototype. Users can find Energy stations, view station details, plan t[...]
   [Repo](https://github.com/Mission-Ready/l5-adv-2026-jul-l5-adv-mission-5-phase-2-rodrigonunes2004)
 
 ---
@@ -103,7 +103,8 @@ I build and test across Windows and WSL Ubuntu, using Docker containers and CLI 
 
 ## 🤝 Let's Connect
 
-I thrive in agile, collaborative teams where clean code and continuous knowledge sharing are celebrated. Whether you're hiring for a hybrid role in Tauranga or a remote position in New Zealand, I’d love to connect.
+I thrive in agile, collaborative teams where clean code and continuous knowledge sharing are celebrated. Whether you're hiring for a hybrid role in Tauranga or a remote position in New Zealand, I[...]
 
 - 📧 rdefraganunes@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rodrigo-fraga-nunes-82418675/)
+
