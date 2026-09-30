@@ -18,10 +18,9 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RodrigoNunes2004/RodrigoNunes2004/master/Designer.png" alt="Rodrigo Nunes" width="120" height="120" />
-  <h2>👨🏻‍💻 About Me</h2>
-  <p style="max-width:880px;">
+<div align="center" style="background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://raw.githubusercontent.com/RodrigoNunes2004/RodrigoNunes2004/master/Designer.png') center/cover; padding: 60px 20px; border-radius: 10px;">
+  <h2 style="color: white; margin: 0;">👨🏻‍💻 About Me</h2>
+  <p style="max-width:880px; color: white; font-weight: 500;">
     <strong>Rodrigo Nunes | Full-Stack Software Engineer</strong><br>
     <strong>Search keywords:</strong> Full-Stack Developer, TypeScript, React, Next.js, Node.js, C#, ASP.NET Core, Azure, Web Development, Scalable Systems<br>
     📍 Tauranga, Bay of Plenty, New Zealand • Open to hybrid and remote roles<br><br>
